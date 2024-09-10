@@ -4,13 +4,14 @@
 
 Dieses Projekt implementiert ein interaktives Tic-Tac-Toe-Spiel, das sowohl gegen menschliche Gegner als auch gegen einfache und fortgeschrittene KI-Gegner gespielt werden kann. Das Spiel verwendet eine modulare Struktur zur Trennung der Spiel- und KI-Logik und bietet eine benutzerfreundliche Oberfläche zur Auswahl des Spielmodus und zur Interaktion mit dem Spielbrett. Die KI nutzt einfache Heuristiken für die Zugauswahl und kann sowohl zufällige als auch strategische Züge ausführen, um das Spielerlebnis zu bereichern.
 
+
 ## Inhaltsverzeichnis
 
-  1. Installation
-  2. Verwendung
-  3. Dateistruktur
-  4. Funktionen
-  5. Beitrag
+1. [Installation](#installation)
+2. [Verwendung](#verwendung)
+3. [Dateistruktur](#dateistruktur)
+4. [Funktionen](#funktionen)
+5. [Beitrag](#beitrag)
 
 
 ## Installation
