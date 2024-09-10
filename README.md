@@ -20,7 +20,9 @@ Dieses Projekt implementiert ein interaktives Tic-Tac-Toe-Spiel, das sowohl gege
 
 
   git clone https://github.com/philip-hackl/TicTacToe-Game.git
+  
   cd TicTacToe-Game
+  
   python main_tictactoe.py
 
 
